@@ -1,3 +1,5 @@
+WebPage: https://divija-arora.github.io/BMIET-Campus-Hub/
+
 This Campus Hub website includes:
 
 Responsive Design: Works well on both mobile and desktop devices
